@@ -2,3 +2,4 @@ setup.txt
 api/node_modules
 
 *.env
+.gitignore
